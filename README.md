@@ -9,7 +9,7 @@
 * Install [Rainmeter](https://github.com/rainmeter/rainmeter/releases/download/v4.2.0.3111/Rainmeter-4.2.exe)
 * Copy the Rainmeter > Skins folder to Documents\Rainmeter\Skins
 * Copy the Rainmeter > Layouts folder to AppData\Roaming\Rainmeter
-* Open Rainmeter and load: Date, All the Flat & Blurry skins & Taskbar
+* Open Rainmeter and load: Date, all the Flat & Blurry skins & Taskbar
 * Switch to Layouts and load Desktop
 * Open the Mouse folder, select either Light or Dark and right click the install.inf > install
 * Open Control Panel > Mouse > Pointers > Scheme > Light or Dark, click Apply then No twice
