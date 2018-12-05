@@ -33,8 +33,8 @@ pen.cur
 alternate.cur
 
 [Strings]
-CUR_DIR       = "Cursors\token dark cursors"
-SCHEME_NAME   = "token dark cursors"
+CUR_DIR       = "Cursors\token light cursors"
+SCHEME_NAME   = "token light cursors"
 pointer       = "arrow.cur"
 help          = "help.cur"
 work          = "busy.ani"
