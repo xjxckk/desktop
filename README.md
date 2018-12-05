@@ -1,7 +1,7 @@
 ### Desktop
 ![Desktop](https://jxck.cf/wp-content/uploads/desktop.jpg)
 ### How to:
-* [Download this](https://github.com/xjxckk/stpg/archive/master.zip)
+* [Download this](https://jxck.cf/wp-content/uploads/Desktop.zip)
 * Install [bbLean](http://bb4win.sourceforge.net/bblean/files/bbLean-1.17.1.bin64.exe)
 * Copy everything inside the bbLean folder to your bbLean install
 * Open bsetshell, select "Blackbox" and select "Set and Logout"
