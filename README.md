@@ -5,6 +5,7 @@
 * [Download](https://github.com/xjxckk/stpg/archive/master.zip)
 * Copy everything inside the bbLean folder to your bbLean install
 * Open bsetshell, select "Blackbox" and select "Set and Logout"
+* Right click the desktop, select Styles, Moko
 * Install [Rainmeter](https://github.com/rainmeter/rainmeter/releases/download/v4.2.0.3111/Rainmeter-4.2.exe)
 * Copy everything inside my Rainmeter folder to Documents\Rainmeter\Skins
 * Open Rainmeter and load: Date, All the Flat & Blurry skins & Taskbar
