@@ -10,6 +10,7 @@
 * Copy everything inside my Rainmeter folder to Documents\Rainmeter\Skins
 * Open Rainmeter and load: Date, All the Flat & Blurry skins & Taskbar
 * Open the Mouse folder, select either Light or Dark and right click the install.inf > install
+* Open Control Panel > Mouse > Pointers > Scheme > Light or Dark, click Apply then No twice
 * Install [Launchy](https://www.launchy.net/downloads/win/Launchy2.5.exe)
 * Open the Black Glass folder and copy it to Launchy\skins
 * Right click Launchy and select Options > Skins > Black Glass
