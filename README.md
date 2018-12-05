@@ -1,8 +1,8 @@
 ### Desktop
 ![Desktop](https://jxck.cf/wp-content/uploads/desktop.jpg)
 ### How to:
+* [Download this](https://github.com/xjxckk/stpg/archive/master.zip)
 * Install [bbLean](http://bb4win.sourceforge.net/bblean/files/bbLean-1.17.1.bin64.exe)
-* [Download](https://github.com/xjxckk/stpg/archive/master.zip)
 * Copy everything inside the bbLean folder to your bbLean install
 * Open bsetshell, select "Blackbox" and select "Set and Logout"
 * Right click the desktop, select Styles > Moko
