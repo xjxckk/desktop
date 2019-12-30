@@ -6,19 +6,12 @@
 
 [begin] (bbLean)
 		[exec] (Launchy) {"A:\Program Files (x86)\Launchy\Launchy.exe"}
-		[submenu] (Library)
-				[path] (Vidoes) {"A:\Videos"}
-				[path] (Books)  {"A:\Documents\Torrents\Magazines & Books"}
-				[path] (Music)  {"A:\Music"}
-				[path] (Pictures) {"A:\Pictures"}
-				 [end]
+		[exec] (Explorer) {explorer.exe}
  
 		[nop]
 		# Paths with spaces should have quotes:
 		# [exec] (Firefox) {"PROGRAM_FILES\Mozilla Firefox\firefox.exe"}
 		[submenu] (System)
-				[path] (My Computer) {DRIVES}
-				[exec] (Explorer) {explorer.exe}
 				[path] (Controls) {CONTROLS}
 				[exec] (GodMode) {"A:\Downloads\GodMode.{ED7BA470-8E54-465E-825C-99712043E01C}"}
 				[exec] (Command	Prompt)	{cmd.exe}
