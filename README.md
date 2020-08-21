@@ -1,12 +1,12 @@
 ### Desktop
 ![Desktop](https://raw.githubusercontent.com/xjxckk/desktop/master/Desktop.png?token=AEFVF4ULMQI4SXJ7CJ4U73K7H7D26)
 ### How to:
-* [Download this](https://jxck.cf/wp-content/uploads/Desktop.zip)
-* Install [bbLean](http://bb4win.sourceforge.net/bblean/files/bbLean-1.17.1.bin64.exe)
-* Copy everything inside the bbLean folder to your bbLean install
+* [Download this](https://github.com/xjxckk/desktop/archive/master.zip)
+* Install [bbZero](http://blackbox4windows.com/index.php?/topic/123-mojmirs-build/)
+* Copy everything inside the bbZero folder to your bbZero install
 * Open bsetshell, select "Blackbox" and select "Set and Logout"
 * Right click the desktop, select Styles > Moko
-* Install [Rainmeter](https://github.com/rainmeter/rainmeter/releases/download/v4.2.0.3111/Rainmeter-4.2.exe)
+* Install [Rainmeter](https://www.rainmeter.net/)
 * Copy the Rainmeter > Skins folder to Documents\Rainmeter\Skins
 * Copy the Rainmeter > Layouts folder to AppData\Roaming\Rainmeter
 * Open Rainmeter and load: Date, all the Flat & Blurry skins & Taskbar
