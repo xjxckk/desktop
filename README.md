@@ -1,5 +1,5 @@
 ### Desktop
-![Desktop](https://jxck.cf/wp-content/uploads/desktop.jpg)
+![Desktop](https://raw.githubusercontent.com/xjxckk/desktop/master/Desktop.png)
 ### How to:
 * [Download this](https://jxck.cf/wp-content/uploads/Desktop.zip)
 * Install [bbLean](http://bb4win.sourceforge.net/bblean/files/bbLean-1.17.1.bin64.exe)
