@@ -5,7 +5,7 @@
 * Install [bbZero](http://blackbox4windows.com/index.php?/topic/123-mojmirs-build/)
 * Copy everything inside the bbZero folder to your bbZero install
 * Open bsetshell, select "Blackbox" and select "Set and Logout"
-* Right click the desktop, select Styles > Moko
+* Right click the desktop, select Styles > Flatt
 * Install [Rainmeter](https://www.rainmeter.net/)
 * Copy the Rainmeter > Skins folder to Documents\Rainmeter\Skins
 * Copy the Rainmeter > Layouts folder to AppData\Roaming\Rainmeter
