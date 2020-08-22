@@ -133,7 +133,7 @@ background.modY: 4
 rootCommand: bsetroot -gradient vertical -from rgb:10/18/20 -to rgb:30/38/40
 
 !*Font:                         vera-7
-style.name: Moko
+style.name: Flatt
 slit.appearance: flat solid solid
 slit.foregroundColor: #556b82
 slit.textColor: #556b82
