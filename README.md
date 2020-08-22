@@ -1,5 +1,5 @@
 ### Desktop
-![Desktop](https://raw.githubusercontent.com/xjxckk/desktop/master/Desktop.png?token=AEFVF4ULMQI4SXJ7CJ4U73K7H7D26)
+![Desktop](https://raw.githubusercontent.com/xjxckk/desktop/master/Desktop.png?token=AEFVF4SUXGQBXT5A7FYLEOK7IFEZY)
 ### How to:
 * [Download this](https://github.com/xjxckk/desktop/archive/master.zip)
 * Install [bbZero](http://blackbox4windows.com/index.php?/topic/123-mojmirs-build/)
