@@ -4,20 +4,20 @@
 	qproperty-geometry: rect(402 25 16 16);
 }
 #input {
-	font: 12px Sans Verdana;
+	font: 12px Open Sans Semibold;
 	border-width: 0px;
 	background-color: rgba(0,244,120,0%);
 	border-style: solid;
-	color: white;
+	color: #556b82;
 	qproperty-alignment: AlignLeft;
 	qproperty-geometry: rect(40 22 160 24);
 }
 #output {
-	font: 12px Sans Verdana;
+	font: 12px Open Sans Semibold;
 	border-width: 0px;
 	background-color: rgba(0,244,120,0%);
 	border-style: solid;
-	color: white;
+	color: #556b82;
 	qproperty-alignment: AlignCenter;
 	qproperty-geometry: rect(250 22 160 24);
 }
@@ -27,30 +27,30 @@
 }
 
 #alternatives {
-	font: 12px Sans Verdana;
-	background-color: black;
-	alternate-background-color: black;
-	color: white;
+	font: 12px Open Sans Semibold;
+	background-color: #1D1E2A;
+	alternate-background-color: #1D1E2A;
+	color: #556b82;
 	border-style: solid;
 	border-width: 0px;
 	qproperty-geometry: rect(13 54 416 100);
 }
 
 #alternativesPath {
-	font: 11px Sans Verdana;
-	color: rgb(221,221,221);
+	font: 11px Open Sans Semibold;
+	color: #556b82;
 }
 
 QScrollBar::handle:vertical {
-	width: 3px;
-	height: 3px;
+	width: 0;
+	height: 0;
 	background: pink;
 	image: url(down_arrow.png);
 }
 
 QScrollBar#altScroll:vertical {
 	image: url(scrollBack.png);
-	width: 16px; 
+	width: 0; 
 	margin: 16px 0px 16px 0px;
 }
 
